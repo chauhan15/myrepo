@@ -1,0 +1,5 @@
+com\restAPI\moneytransferservicetest\dao\CustomerAccountDAOTest.class
+com\restAPI\moneytransferservicetest\services\AccountServiceTest.class
+com\restAPI\moneytransferservicetest\dao\MultiThreadedBehaviourTest.class
+com\restAPI\moneytransferservicetest\services\ServiceConnectionTest.class
+com\restAPI\moneytransferservicetest\dao\MultiThreadedBehaviourTest$1.class
